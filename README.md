@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java!
 - 📫 How to reach me: 
 Instagram: @roko.gligora
-Twitter: @
+Twitter: @roko.gligora
 
 <!---
 rgligora/rgligora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
