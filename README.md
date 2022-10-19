@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rgligora
-- 👀 I’m interested in IoT, C programming, Arduino, etc.
+- 👀 I’m interested in all things computers. Form IoT, C programming and Arduino to ML and AI.
 - 🌱 I’m currently learning Java!
 - 📫 How to reach me: 
 Instagram: @roko.gligora
