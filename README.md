@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rgligora
-- 👀 I’m interested in all things computers. Form IoT, C programming and Arduino to ML and AI.
-- 🌱 I’m currently learning Java!
+- 👀 I’m a student @ FER Zagreb, Croatia. Interested in Web Development, C programming, ML and AI.
+- 🌱 I’m currently learning Python and Web Development!
 - 📫 How to reach me: 
 Instagram: @roko.gligora
 Twitter: @roko.gligora
