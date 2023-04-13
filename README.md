@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rgligora
-- 👀 I’m a student @ FER Zagreb, Croatia. Interested in Web Development, C programming, ML and AI.
+- 👀 I’m a student @ FER Zagreb, Croatia. Interested in Web Development, CyberSec, ML and AI.
 - 🌱 I’m currently learning Python and Web Development!
 - 📫 How to reach me: 
 Instagram: @roko.gligora
