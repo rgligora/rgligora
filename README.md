@@ -3,7 +3,7 @@
 -  I’m currently learning Python and Web Development!
 - 📫 How to reach me: 
 Instagram: @roko.gligora
-Twitter: @roko.gligora
+LinkedIn: @rokogligora
 
 <!---
 rgligora/rgligora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
