@@ -3,6 +3,7 @@
 - 📫 How to reach me: 
 Instagram: @roko.gligora
 LinkedIn: @rokogligora
+Everything else: flag{rgligora}
 
 <!---
 rgligora/rgligora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
