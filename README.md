@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @rgligora
 - 👀 I’m a student @ FER Zagreb, Croatia. Interested in Cyber Security, Web Development, ML and AI.
 - 📫 How to reach me: 
 Instagram: @roko.gligora
