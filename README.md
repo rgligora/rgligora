@@ -1,8 +1,7 @@
 - 👀 I’m a student @ FER Zagreb, Croatia. Interested in Cyber Security, Web Development, ML and AI.
-- 📫 How to reach me: 
-Instagram: @roko.gligora
-LinkedIn: @rokogligora
-Everything else: flag{rgligora}
+- 📫 How to reach me: flag{rgligora}
+- Instagram: @roko.gligora
+- inkedIn: @rokogligora
 
 <!---
 rgligora/rgligora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
