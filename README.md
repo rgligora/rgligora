@@ -2,9 +2,9 @@
 - 📫 How to reach me:
 - Instagram: @roko.gligora
 - LinkedIn: @rokogligora
-<p align="center">
+<div align="center">
   [![GitHub Streak](https://streak-stats.demolab.com/?user=rgligora)](https://git.io/streak-stats)
-</p>
+</div>
 <!---
 rgligora/rgligora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
